@@ -15,7 +15,6 @@ I enjoy designing reliable backend systems, solving scalability problems, and bu
 - LLM tool calling and workflow orchestration
 - Python-based AI applications
 - Java/Spring Boot backend architecture
-- Cloud deployment on AWS
 - Distributed systems and event-driven design
 - System design for senior/staff engineering roles
 
