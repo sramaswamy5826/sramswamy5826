@@ -29,7 +29,7 @@ I enjoy designing reliable backend systems, solving scalability problems, and bu
 - Docker and containerized applications
 - Java/Spring Boot backend architecture
 - RAG, embeddings, vector search, and AI agents
-- LLM Observability, Evaluation adn Safety
+- LLM Agent Observability, Evaluation and Safety
 - Production monitoring, security, and reliability
 
 ---
